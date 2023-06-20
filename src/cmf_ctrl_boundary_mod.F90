@@ -20,6 +20,9 @@ MODULE CMF_CTRL_BOUNDARY_MOD
 !==========================================================
 USE PARKIND1,                ONLY: JPIM, JPRB, JPRM
 USE YOS_CMF_INPUT,           ONLY: LOGNAM, IFRQ_SL, DTSL
+
+
+
 !============================
 IMPLICIT NONE
 SAVE
